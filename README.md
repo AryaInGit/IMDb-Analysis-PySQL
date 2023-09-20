@@ -67,5 +67,5 @@ You can use this script as a starting point for your IMDb movie database analysi
 [imdb-sqlite-dataset](https://www.kaggle.com/datasets/prathammalvia/imdb-sqlite-dataset)
 ### 👨‍💻 Author 📝
 
-[AryaMetricsMage](https://github.com/AryaMetricsMage)
+[AryaInGit](https://github.com/AryaInGit)
 
